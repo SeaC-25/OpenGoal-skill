@@ -1,7 +1,7 @@
 # OpenGoal Skill
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/SeaC-25/opengoal-skill?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SeaC-25/opengoal-skill?style=social)
 
 > **将自然语言需求转化为结构化的、可执行的 /goal 命令**
 
