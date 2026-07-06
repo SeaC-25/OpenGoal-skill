@@ -133,10 +133,10 @@ Phase 3: 商品模块实现
 
 - **[README.md](./README.md)** - 使用指南和功能介绍
 - **[BUILD_YOUR_OWN.md](./BUILD_YOUR_OWN.md)** - 构建方法（**推荐阅读**）
-- **[answer.md](./answer.md)** - 完整的 100 个问答记录
-- **[PROJECT_STRUCTURE.md](./PROJECT_STRUCTURE.md)** - 项目结构可视化
-- **[static/core/contract.md](./static/core/contract.md)** - 核心工作契约
-- **[static/core/knowledge-base.md](./static/core/knowledge-base.md)** - DDD/SOA 完整知识库
+- **[answer.md](OpenGoal-skill/answer.md)** - 完整的 100 个问答记录
+- **[PROJECT_STRUCTURE.md](OpenGoal-skill/PROJECT_STRUCTURE.md)** - 项目结构可视化
+- **[static/core/contract.md](OpenGoal-skill/static/core/contract.md)** - 核心工作契约
+- **[static/core/knowledge-base.md](OpenGoal-skill/static/core/knowledge-base.md)** - DDD/SOA 完整知识库
 
 ---
 
@@ -301,9 +301,9 @@ opengoal-skill/
 
 ## 🔗 相关资源
 
-- [DDD 参考资料](./static/core/knowledge-base.md#一领域驱动设计ddd)
-- [SOA 参考资料](./static/core/knowledge-base.md#二面向服务架构soa)
-- [架构决策树](./static/core/knowledge-base.md#三架构模式决策树)
+- [DDD 参考资料](OpenGoal-skill/static/core/knowledge-base.md#一领域驱动设计ddd)
+- [SOA 参考资料](OpenGoal-skill/static/core/knowledge-base.md#二面向服务架构soa)
+- [架构决策树](OpenGoal-skill/static/core/knowledge-base.md#三架构模式决策树)
 
 ---
 
