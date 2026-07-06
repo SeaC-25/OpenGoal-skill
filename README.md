@@ -103,7 +103,7 @@ Phase 3: 商品模块实现
 6. **缺乏状态检查点** → OpenGoal 生成验收标准
 7. **提示词熵增** → OpenGoal 规范化需求
 
-详见：[为什么需要 OpenGoal？](./BUILD_YOUR_OWN.md#-为什么需要这个-skill)
+详见：[为什么需要 OpenGoal？](OpenGoal-skill/BUILD_YOUR_OWN.md#-为什么需要这个-skill)
 
 ---
 
@@ -123,16 +123,16 @@ Phase 3: 商品模块实现
 
 ### 详细指南
 
-👉 **[如何构建你自己的 Goal Skill](./BUILD_YOUR_OWN.md)** 👈
+👉 **[如何构建你自己的 Goal Skill](OpenGoal-skill/BUILD_YOUR_OWN.md)** 👈
 
-**完整的 100 个问答记录**：[answer.md](./answer.md)
+**完整的 100 个问答记录**：[answer.md](OpenGoal-skill/answer.md)
 
 ---
 
 ## 📚 文档
 
 - **[README.md](./README.md)** - 使用指南和功能介绍
-- **[BUILD_YOUR_OWN.md](./BUILD_YOUR_OWN.md)** - 构建方法（**推荐阅读**）
+- **[BUILD_YOUR_OWN.md](OpenGoal-skill/BUILD_YOUR_OWN.md)** - 构建方法（**推荐阅读**）
 - **[answer.md](OpenGoal-skill/answer.md)** - 完整的 100 个问答记录
 - **[PROJECT_STRUCTURE.md](OpenGoal-skill/PROJECT_STRUCTURE.md)** - 项目结构可视化
 - **[static/core/contract.md](OpenGoal-skill/static/core/contract.md)** - 核心工作契约
@@ -311,6 +311,6 @@ opengoal-skill/
 
 **用问答驱动设计，构建属于你的 Goal Skill！🚀**
 
-[开始使用](./README.md) • [构建方法](./BUILD_YOUR_OWN.md) • [100 个问答](./answer.md)
+[开始使用](OpenGoal-skill/README.md) • [构建方法](OpenGoal-skill/BUILD_YOUR_OWN.md) • [100 个问答](OpenGoal-skill/answer.md)
 
 </div>
